@@ -20,7 +20,7 @@ padding: 12em
 
 ## Quilitiing in the Black with Black Land Stewards in Round O SC
 
-Quilting in the Black is a theoretical conceptualization and methodology to highlight how Round O’s community agreements maintained Black land ownership from the post Civil War period, through Jim Crow, and into the 21st century. This digital archive complements the pending manuscript to uncover the mechanisms used to dispossess Black heir’s property (property without legal deed), while illustrating the gendered and racialized nuances of Black land loss, for over a century, in the rural south. Overall, this digital archive details an intergenerational struggle to maintain Black land ownership throughout seven generations of my family in Round O, South Carolina, since 1868. 
+Quilting in the Black is a theoretical conceptualization and methodology to highlight how Round O’s community agreements maintained Black land ownership from the post Civil War period, through Jim Crow, and into the 21st century. This digital archive complements my pending manuscript that uncovers the legal and extralegal mechanisms used to dispossess Black heir’s property (property without legal deed), while illustrating the gendered and racialized nuances of Black land loss, for over a century, in the rural south. Overall, this digital archive details an intergenerational struggle to maintain Black land ownership throughout seven generations of my family in Round O, Colleton County, South Carolina, since 1868. 
 
 
 
